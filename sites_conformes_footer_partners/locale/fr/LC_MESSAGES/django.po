@@ -1,0 +1,94 @@
+# Translations for the sites_conformes_footer_partners app.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-29 14:33+0200\n"
+"PO-Revision-Date: 2026-07-29 14:14+0200\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: models.py:21
+msgid "Required when a main partner logo is set."
+msgstr "Obligatoire si un logo de partenaire principal est renseigné."
+
+#: models.py:25
+msgid "Title"
+msgstr "Titre"
+
+#: models.py:29
+msgid ""
+"Example: \"Ce site est développé et financé par\" or \"Ils nous "
+"soutiennent\"."
+msgstr ""
+"Exemple : « Ce site est développé et financé par » ou « Ils nous "
+"soutiennent »."
+
+#: models.py:38
+msgid "Main partner logo"
+msgstr "Logo du partenaire principal"
+
+#: models.py:41
+msgid "Main partner logo alt text"
+msgstr "Texte alternatif du logo du partenaire principal"
+
+#: models.py:45
+msgid "Required if a main partner logo is set. Must be the partner's name."
+msgstr ""
+"Obligatoire si un logo de partenaire principal est renseigné. Doit être le "
+"nom du partenaire."
+
+#: models.py:48
+msgid "Main partner link"
+msgstr "Lien du partenaire principal"
+
+#: models.py:55
+msgid "Logo height (rem)"
+msgstr "Hauteur des logos (rem)"
+
+#: models.py:59
+msgid "Applied to every logo for a uniform height, as recommended by the DSFR."
+msgstr ""
+"Appliquée à tous les logos partenaires pour uniformiser leur hauteur, comme "
+"recommandé par le DSFR."
+
+#: models.py:70
+msgid "Main partner"
+msgstr "Partenaire principal"
+
+#: models.py:72
+msgid "Other partners"
+msgstr "Autres partenaires"
+
+#: models.py:77
+msgid "Footer partners"
+msgstr "Partenaires (pied de page)"
+
+#: models.py:91
+msgid "Logo"
+msgstr "Logo"
+
+#: models.py:94
+msgid "Alt text"
+msgstr "Texte alternatif"
+
+#: models.py:96
+msgid "Must be the partner's name."
+msgstr "Doit être le nom du partenaire."
+
+#: models.py:99
+msgid "Link"
+msgstr "Lien"
+
+#: models.py:112
+msgid "Partner logo"
+msgstr "Logo partenaire"
+
+#: models.py:113
+msgid "Partner logos"
+msgstr "Logos partenaires"
