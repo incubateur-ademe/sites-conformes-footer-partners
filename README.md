@@ -12,7 +12,7 @@ partenaires secondaires, tous partageant une hauteur uniforme configurable.
 ## Installation
 
 ```bash
-uv add --editable ../../packages/sites-conformes-footer-partners
+uv add sites-conformes-footer-partners
 ```
 
 Ce package surcharge `sites_conformes_core/blocks/footer.html`, template que
